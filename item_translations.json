@@ -1,0 +1,77 @@
+{
+  "fish": {
+    "easy": {
+      "carp":["carp","karper"],
+      "herring":["herring","haring"],
+      "s_bass": ["smallmouth bass","kleine baars"],
+      "anchovy":["anchovy","ansjovis"],
+      "sardine":["sardine","sardine"],
+      "moonfish":["moonfish","maanvis"],
+      "chub":["chub","kopvoorn"],
+      "bream":["bream","brasem"]
+    },
+    "medium": {
+      "shad":["shad","elft"],
+      "bullhead":["bullhead","donderpad"],
+      "l_bass":["largemouth bass","grootmondse baars"],
+      "flounder":["flounder","bot"],
+      "halibut":["halibut","heilbot"],
+      "lionfish":["lionfish","leeuwvis"],
+      "blue_discus":["blue discus","blauwe discus"]
+    },
+    "hard": {
+      "eel":["eel","aal"],
+      "catfish":["catfish","meerval"],
+      "lava_eel":["lava eel","lava-aal"],
+      "sandfish":["sandfish","zandvis"],
+      "pirate_fish":["pirate fish","piratenvis"],
+      "scorp_carp":["scorpion carp","schorpioenkarper"]
+    },
+    "legendary": {
+      "angler":["angler","zeeduivel"],
+      "icefish":["icefish","ijsvis"],
+      "crimsonfish":["crimsonfish","bloedvis"],
+      "psy_eel":["psychic eel","paranormale paling"],
+      "quantum_carp":["quantum carp","quantumkarper"],
+      "ghostfish":["ghostfish","spookvis"],
+      "legend":["Legend","Legende"],
+      "legend_2":["Legend II","Legende II"]
+    }
+  },
+  "egg":
+  {
+    "egg":["egg","ei"]
+  },
+  "wood":
+  {
+    "wood":["wood","hout"]
+  },
+  "animals":
+  {
+    "squirrel":["squirrel","eekhoorn"]
+  },
+  "treasure":
+  {
+    "searelic":["deep sea relic","diepzeeschat"],
+    "pfossil":["palm fossil","palmfossiel"],
+    "gremains":["gilded remains","verguld overblijfsel"],
+    "gmask":["golden mask","gouden masker"]
+  },
+  "ore":
+  {
+    "diamond":["diamond ore","diamanterts"]
+  },
+  "tools":
+  {
+    "shovel":["Shovel","Schep"],
+    "robot":["Robot","Robot"]
+  },
+  "consumables":
+  {
+    "coffee":["Coffee","Koffie"]
+  },
+  "effects":
+  {
+    "energetic":["Energetic","Energiek"]
+  }
+}

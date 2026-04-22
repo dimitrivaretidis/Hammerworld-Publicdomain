@@ -1,0 +1,38 @@
+{
+  "common":
+  [
+    {"name":"carp","dif":1,"val":30,"type":"mixed"},
+    {"name":"herring","dif":2,"val":30,"type":"dart"},
+    {"name":"s_bass","dif":3,"val":50,"type":"mixed"}, 
+    {"name":"anchovy","dif":4,"val":30,"type":"dart"},
+    {"name":"sardine","dif":5,"val":40,"type":"dart"},
+    {"name":"moonfish","dif":6,"val":30,"type":"mixed"},
+    {"name":"chub","dif":7,"val":50,"type":"dart"}, 
+    {"name":"bream","dif":8,"val":45,"type":"smooth"},
+    {"name":"shad","dif":9,"val":60,"type":"smooth"},
+    {"name":"bullhead","dif":10,"val":75,"type":"smooth"},
+    {"name":"l_bass","dif":11,"val":100,"type":"mixed"},
+    {"name":"flounder","dif":12,"val":100,"type":"sinker"},
+    {"name":"halibut","dif":13,"val":80,"type":"sinker"},
+    {"name":"lionfish","dif":14,"val":100,"type":"smooth","area":13},
+    {"name":"blue_discus","dif":15,"val":120,"type":"dart","area":13},
+    {"name":"eel","dif":16,"val":85,"type":"smooth"},
+    {"name":"catfish","dif":17,"val":200,"type":"mixed"}
+  ],
+  "rare":
+  [
+    {"name":"lava_eel","dif":18,"val":700,"type":"mixed"},
+    {"name":"sandfish","dif":19,"val":75,"type":"mixed","area":3},
+    {"name":"scorp_carp","dif":20,"val":150,"type":"dart","area":3},
+    {"name":"pirate_fish","dif":21,"val":100,"type":"dart","area":6},
+
+    {"name":"angler","dif":22,"val":1000,"day":6,"type":"sine"},
+    {"name":"icefish","dif":23,"val":1000,"day":6,"type":"mixed","area":2},
+    {"name":"crimsonfish","dif":24,"val":2500,"day":8,"type":"mixed"},
+    {"name":"psy_eel","dif":25,"val":5000,"day":12,"type":"psychic"},
+    {"name":"quantum_carp","dif":26,"val":5000,"day":12,"type":"quantum"},
+    {"name":"ghostfish","dif":27,"val":5000,"day":12,"type":"ghost"},
+    {"name":"legend","dif":28,"val":10000,"day":19,"type":"dart"},
+    {"name":"legend_2","dif":29,"val":20000,"day":19,"type":"dart","area":13}
+  ]
+}
